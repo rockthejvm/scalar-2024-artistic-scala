@@ -6,6 +6,10 @@ This repository contains the code written during the "Generative Art in Scala, N
 
 This is a Scala.js application that runs in a browser.
 
+## If You Follow Along
+
+If you follow along to [this video](https://youtu.be/kOhBhOGfUKo), you might want to use the `start` branch instead of `master`.
+
 ## How to Run
 
 Prerequisites:
