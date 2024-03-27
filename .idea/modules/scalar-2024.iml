@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/Users/daniel/dev/rockthejvm/talks/scalar-2024/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21">
+    <output url="file://$MODULE_DIR$/../../target/scala-3.3.0/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-3.3.0/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: scala-sdk-3.3.0" level="project" />
+    <orderEntry type="module" module-name="app" />
+    <orderEntry type="library" name="sbt: app.tulz:tuplez-apply_sjs1_3:0.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: app.tulz:tuplez-full-light_sjs1_3:0.4.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.raquo:airstream_sjs1_3:16.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.raquo:ew_sjs1_3:0.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.raquo:laminar_sjs1_3:16.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.frontroute:frontroute_sjs1_3:0.18.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-js:scalajs-dom_sjs1_3:2.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-js:scalajs-javalib:1.15.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-js:scalajs-library_2.13:1.15.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-js:scalajs-scalalib_2.13:2.13.12+1.15.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_3:3.3.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala3-library_sjs1_3:3.3.0:jar" level="project" />
+  </component>
+</module>
